@@ -1,6 +1,6 @@
 //
-//  SlipNavigationTests.m
 //  SlipNavigationTests
+//  SlipNavigationTests.m
 //
 //  Created by admin on 15/8/28.
 //  Copyright (c) 2015年 admin. All rights reserved.
